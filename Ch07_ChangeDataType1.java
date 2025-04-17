@@ -1,4 +1,4 @@
-public class Ch07_ChageDataType1 {
+public class Ch07_ChangeDataType1 {
   public static void main(String[] args) {
     // 암시적 형 변환
     // 데이터 타입을 변환하는 것으로 int -> double로 변환하는 것을 말한다.
