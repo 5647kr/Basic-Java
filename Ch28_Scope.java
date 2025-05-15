@@ -1,4 +1,4 @@
-public class Ch27_Scope {
+public class Ch28_Scope {
 
   static void num() {
     int i = 0;
