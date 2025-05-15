@@ -1,4 +1,4 @@
-public class Ch25_ClassVariable {
+public class Ch26_ClassVariable {
   static class Calculator {
     // 클래스 변수의 용도
     // 1. 인스턴스에 따라서 변하지 않는 값이 필요한 경우
