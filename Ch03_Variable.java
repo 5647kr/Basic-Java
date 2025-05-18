@@ -9,14 +9,14 @@ public class Ch03_Variable {
 
     // 숫자 변수 선언
 
-    System.out.println("==========정수 변수 선언==========");
+    System.out.println("========== 정수 변수 선언 ==========");
     // 1. 정수(... -2, -1, 0, 1, 2...) 변수 선언
     // 키워드: int
     int num2;
     num2 = 4;
     System.out.println("int = " + (num2));
 
-    System.out.println("==========실수 변수 선언==========");
+    System.out.println("========== 실수 변수 선언 ==========");
     // 2. 실수(...-0.2, -0.1, 0, 0.1, 0.2...) 변수 선언
     // 키워드: double
     double num3;
@@ -33,7 +33,7 @@ public class Ch03_Variable {
     // int num4 = (int) 1.2;
     
     
-    System.out.println("==========문자열 변수 선언==========");
+    System.out.println("========== 문자열 변수 선언 ==========");
     // 문자열 변수 선언
     // 키워드: String
     
@@ -47,7 +47,7 @@ public class Ch03_Variable {
     System.out.println(str2 + str3);
     
     
-    System.out.println("==========변수의 효용==========");
+    System.out.println("========== 변수의 효용 ==========");
     // 변수의 효용
 
     
