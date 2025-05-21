@@ -3,6 +3,7 @@ public class Ch14_Condition {
     // 논리 연산자
 
     // and(&&) 연산자
+    System.out.println("========== and(&&) 연산자 ==========");
     if(true && true) {
       System.out.println("and 연산자1 출력");
     }
@@ -15,6 +16,7 @@ public class Ch14_Condition {
       System.out.println("and 연산자3 출력");
     }
 
+    System.out.println("========== or(||) 연산자 ==========");
     // or(||) 연산자
     if(true || true) {
       System.out.println("or 연산자1 출력");
@@ -28,6 +30,7 @@ public class Ch14_Condition {
       System.out.println("or 연산자3 출력");
     }
 
+    System.out.println("========== not(!) 연산자 ==========");
     // not(!) 연산자
     if(!true) {
       System.out.println("not 연산자1 출력");
