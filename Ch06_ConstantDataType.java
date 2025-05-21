@@ -3,7 +3,7 @@ public class Ch06_ConstantDataType {
     // 상수의 데이터 타입
 
     // 상수란 변하지 않는 값을 의미한다.
-    System.out.println("==========상수 데이터 타입==========");
+    System.out.println("========== 상수 데이터 타입 ==========");
 
     double num1 = 2.2;
     float num2 = 2.2F;
