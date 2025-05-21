@@ -40,17 +40,29 @@ public class Ch03_Variable {
     String str1;
     str1 = "hello world";
     System.out.println("String str1 = " + str1);
-    
+
+    String str2 = "hello world!";
+    System.out.println("String str2 = " + str2);
+
     // 문자열 결합
-    String str2 = "hello";
-    String str3 = " Lion";
-    System.out.println(str2 + str3);
+    String str3 = "hello";
+    String str4 = " Lion";
+    System.out.println(str3 + str4);
     
     
     System.out.println("========== 변수의 효용 ==========");
     // 변수의 효용
 
-    
+    System.out.println("100 + 10 = " + 100 + 10);
+    System.out.println("(100 + 10) / 10 = " + (100 + 10) / 10);
+    System.out.println("((100 + 10) / 10) - 10 = " + (((100 + 10) / 10) - 10));
 
+//    만약 100을 1000으로 10000으로 바꾸려고 할때 하나씩 다 바꿔야 한다. 그래서 변수를 사용한다.
+
+//    중복 제거, 가독성, 유지 보수
+    int num4 = 100;
+    System.out.println("num4 + 10 = " + num4 + 10);
+    System.out.println("(num4 + 10) / 10 = " + (num4 + 10) / 10);
+    System.out.println("((num4 + 10) / 10) - 10 = " + (((num4 + 10) / 10) - 10));
   }
 }
