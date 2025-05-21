@@ -6,8 +6,7 @@ public class Ch04_Comment {
     // 한 줄 주석입니다.
 
     System.out.println("==========여러 줄 주석==========");
-    System.out.println("/* */ 이용해 한 줄 주석을 사용할 수 있다.");
-    
+    System.out.println("/* */ 이용해 여러 줄 주석을 사용할 수 있다.");
     /* 여러 줄 주석입니다.
     * 여러 줄 주석입니다.
     * 여러 줄 주석입니다.
