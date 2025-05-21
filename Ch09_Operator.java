@@ -1,5 +1,6 @@
 public class Ch09_Operator {
   public static void main(String[] args) {
+    System.out.println("========== 산술 연산자 ==========");
     // 산술 연산자(+, -, *, /, %)
 
     int result1 = 1 + 2;
@@ -35,7 +36,7 @@ public class Ch09_Operator {
 
 
     System.out.println("========== 연산자 우선순위 ==========");
-
+//    사칙연산을 생각한다.
     int num2 = 4 - 3 * 6;
     System.out.println("num2: " + num2);
   }
