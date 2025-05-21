@@ -8,7 +8,7 @@ public class Ch07_ChangeDataType1 {
      *         char  ->
      */
 
-    System.out.println("==========상수 데이터 타입==========");
+    System.out.println("========== 상수 데이터 타입 ==========");
 
     int num1 = 3; // int
     float num2 = 1.0F; // float
