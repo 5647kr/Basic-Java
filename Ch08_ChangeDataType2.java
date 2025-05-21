@@ -6,6 +6,8 @@ public class Ch08_ChangeDataType2 {
     // float num1 = 100.0; error;
     // int num2 = 100.0F; error
 
+    System.out.println("========== 명시적 형 변환 ==========");
+
     float num3 = (float) 100.0;
     int num4 = (int) 100.0F;
 
