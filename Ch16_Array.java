@@ -1,7 +1,7 @@
 public class Ch16_Array {
   public static void main(String[] args) {
     // 배열
-    System.out.println("==========배열==========");
+    System.out.println("========== 배열1 ==========");
 
     // 배열 선언 방법
     // element타입[] 배열이름 = {elem1, elem2, elem3}
@@ -12,7 +12,8 @@ public class Ch16_Array {
     System.out.println("arr1[2]:" + arr1[2]);
     System.out.println("arr1[3]:" + arr1[3]);
     System.out.println("arr1.length:" + arr1.length);
-    
+
+    System.out.println("========== 배열2 ==========");
     // 생성자 배열 선언
     String[] arr2 = new String[4];
     // new 타입[배열 길이]
@@ -25,7 +26,7 @@ public class Ch16_Array {
     arr2[3] = "item4";
     System.out.println("arr2.length:" + arr2.length);
 
-    // error 넘치면 에러가 난다.
+    // 넘치면 에러가 난다.
     // arr2[4] = "item5";
     // System.out.println("arr2.length:" + arr2.length);
   }
