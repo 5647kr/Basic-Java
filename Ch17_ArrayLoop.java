@@ -2,7 +2,7 @@ public class Ch17_ArrayLoop {
   public static void main(String[] args) {
     // 배열과 반복문의 조화
 
-    System.out.println("==========문자열 배열==========");
+    System.out.println("========== 문자열 배열 ==========");
     // 문자열 배열
     String[] arr1 = {"str1", "str2", "str3", "str4"};
     for(int i = 0; i < arr1.length; i++) {
@@ -11,7 +11,7 @@ public class Ch17_ArrayLoop {
     }
     
     
-    System.out.println("==========숫자형 배열==========");
+    System.out.println("========== 숫자형 배열 ==========");
     // 숫자형 배열
     int[] arr2 = {1, 2, 3, 4};
     for(int i = 0; i < arr2.length; i++) {
