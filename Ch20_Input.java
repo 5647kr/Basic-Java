@@ -1,7 +1,7 @@
 public class Ch20_Input {
   // 매개변수와 인자
 
-  // 매개변수(parameter)
+  // int limit을 매개변수(parameter)
   public static void numbering1(int limit) {
     int i = 0;
     while (i < limit) {
@@ -19,7 +19,7 @@ public class Ch20_Input {
   }
 
   public static void main(String[] args) {
-    // 인자(argument)
+    // 5: 인자(argument)
     numbering1(5);
     numbering2(3, 5);
   }
