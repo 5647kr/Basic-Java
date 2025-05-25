@@ -1,6 +1,7 @@
 public class Ch19_Method {
-    // 메소드의 정의
-  // js에서 함수와 비슷한 느낌
+  // js에서 함수
+
+  // 메소드의 정의
   public static void numbering() {
     int i = 0;
     while (i < 10) {
@@ -10,6 +11,8 @@ public class Ch19_Method {
   }
 
   public static void main(String[] args) {
+//    main이라고 하는것이 method이다.
+
     // 메소드의 호출
     numbering();
   }
