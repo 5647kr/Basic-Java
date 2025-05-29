@@ -1,4 +1,4 @@
-public class Ch28_Scope {
+public class Ch28_Scope1 {
 
 //  지역 변수
   static void num1() {
